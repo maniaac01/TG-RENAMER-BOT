@@ -16,7 +16,7 @@ Type /help for more details."""
     UPLOAD_START_VIDEO = "Uploading as video.....📤"
     UPLOAD_START = "Uploading as File.....📤"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations.I can't do anything for that 🤷‍♂️."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [Anonymous](https://t.me/Ns_AnoNymouS)'s bot.**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [Viren](https://t.me/virennaruka)'s bot.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/Ns_Bot_supporters'>Ns Bot Supporters</a>"
@@ -24,12 +24,11 @@ Type /help for more details."""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "@renamer_Ns_bot"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
 
-I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
+I am Renamer bot ✍ by <a href='https://t.me/{virennaruka}'>My Father 👨‍🏫</a>
     
 1. Send Me A Thumbnail.
 
@@ -39,8 +38,6 @@ I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
 
 4. Reply to that message with <code>/rename_vidoe new name.extension</code>. with custom thumbnail support.\n(uploading as Video)
 
-   
-<b>Thanks to <i><a href="https://t.me/Ns_AnoNymous">Anonymous 👨‍🏫</a></i> for his source code. check /about for source code</b>
 
 --------
 
@@ -64,10 +61,4 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
-
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
-
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
-
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"""
+**👨‍💻 Developer:** [Viren](https://t.me/virennaruka)"""
